@@ -1,0 +1,22 @@
+{
+  "name": "pruebas-unitarias",
+  "version": "0.0.0",
+  "description": "Proyecto para practicar pruebas unitarias con Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "pruebas",
+    "unitarias",
+    "jest"
+  ],
+  "author": "Eduardo Villarroel",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "axios": "^1.5.1"
+  }
+}
